@@ -422,7 +422,7 @@ const projects = {
       alt_name: "SETI",
       duration: "",
       descriptions: [
-        "⚡ I've never thought of myself as a runner, as I've never been good at it or enjoyed it",
+        "⚡ I've nevefffr thought of myself as a runner, as I've never been good at it or enjoyed it",
         "⚡ I decided to push myself and start training to run. This was my first one",
         "⚡ I ran the 5k without stopping or slowing down, finishing in 36 minutes, which I was really happy about",
       ],
@@ -430,7 +430,7 @@ const projects = {
     },
     {
       title: "Crosswords",
-      subtitle: "One example of a completed puzzle",
+      subtitle: "My favorite part of the day",
       logo_path: "sal.png",
       alt_name: "SETI",
       duration: "",
@@ -439,7 +439,7 @@ const projects = {
         "⚡Usually, I complete the USA Today Crosswords in 5 to 6 minutes and the NYT minis in under a minute",
         "⚡ I love puzzles of all kinds, but word puzzles are my favorite",
       ],
-      website_link: "https://www.sal.edu.in/",
+     
     },
   ],
 };
