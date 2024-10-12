@@ -7,25 +7,25 @@ function DegreeCard(props) {
   const degree = props.degree;
   const theme = props.theme;
 
-  const style_img = style({
-    width: "220px",
-    height: "auto",
-    borderRadius: " 50%",
-    padding: "10px",
-    border: `1px solid ${theme.text}`,
-    marginRight: "50px",
-    boxShadow: `0px 0px 2px ${theme.text}`,
-    transition: "all 0.2s ease-in-out",
-    ":hover": {
-      color: "rgba(255, 255, 255, 1)",
-      boxShadow: `0 2px 10px ${theme.text}`,
-    },
-    "@media (max-width: 768px)": {
-      marginLeft: "50px",
-      marginBottom: "15px",
-      width: "175px",
-    },
-  });
+  // const style_img = style({
+  //   width: "220px",
+  //   height: "auto",
+  //   borderRadius: " 50%",
+  //   padding: "10px",
+  //   border: `1px solid ${theme.text}`,
+  //   marginRight: "50px",
+  //   boxShadow: `0px 0px 2px ${theme.text}`,
+  //   transition: "all 0.2s ease-in-out",
+  //   ":hover": {
+  //     color: "rgba(255, 255, 255, 1)",
+  //     boxShadow: `0 2px 10px ${theme.text}`,
+  //   },
+  //   "@media (max-width: 768px)": {
+  //     marginLeft: "50px",
+  //     marginBottom: "15px",
+  //     width: "175px",
+  //   },
+  // });
 
   const card_body = style({
     border: `1px solid ${theme.text}`,
@@ -68,7 +68,7 @@ function DegreeCard(props) {
   return (
     <div className="degree-card">
       <Flip left duration={2000}>
-         <div {...style_img}>
+         {/* <div {...style_img}>
           <img
             style={{
               maxWidth: "100%",
@@ -79,7 +79,7 @@ function DegreeCard(props) {
           //  src={require(`../../assests/images/${degree.logo_path}`)}
             alt={degree.alt_name}
           />
-        </div> 
+        </div>  */}
       </Flip>
       <Fade right duration={2000} distance="40px">
         <div {...card_body}>
