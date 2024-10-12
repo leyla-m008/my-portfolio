@@ -68,7 +68,7 @@ function DegreeCard(props) {
   return (
     <div className="degree-card">
       <Flip left duration={2000}>
-        {/* <div {...style_img}>
+         <div {...style_img}>
           <img
             style={{
               maxWidth: "100%",
@@ -79,7 +79,7 @@ function DegreeCard(props) {
           //  src={require(`../../assests/images/${degree.logo_path}`)}
             alt={degree.alt_name}
           />
-        </div> */}
+        </div> 
       </Flip>
       <Fade right duration={2000} distance="40px">
         <div {...card_body}>
