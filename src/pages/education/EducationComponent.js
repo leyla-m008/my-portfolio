@@ -18,7 +18,7 @@ function Education(props) {
           <div className="heading-div">
             <div className="heading-img-div">
           
-              <img src={hand}/>
+              <img alt="hand" src={hand}/>
             </div>
             <div className="heading-text-div">
               <h1 className="heading-text" style={{ color: theme.text }}>
