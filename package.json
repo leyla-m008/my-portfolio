@@ -2,7 +2,7 @@
   "private": true,
   "name": "my-portfolio",
   "version": "1.2.0",
-  "homepage": "https://leyla-m.github.io",
+  "homepage": "https://leylas-portfolio.netlify.app",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
