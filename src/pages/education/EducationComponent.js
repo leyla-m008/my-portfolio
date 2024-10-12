@@ -3,7 +3,7 @@ import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import Educations from "../../containers/education/Educations";
 import Certifications from "../../containers/certifications/Certifications";
-import EducationImg from "./EducationImg";
+//import EducationImg from "./EducationImg";
 import hand from "./hand.png"
 import "./EducationComponent.css";
 import { Fade } from "react-reveal";

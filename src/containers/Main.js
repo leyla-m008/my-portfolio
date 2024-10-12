@@ -6,7 +6,7 @@ import Proj from "../pages/education/ProjectsComponent";
 import Education from "../pages/education/EducationComponent";
 import Experience from "../pages/experience/Experience";
 import Contact from "../pages/contact/ContactComponent";
-import Projects from "../pages/projects/Projects";
+//import Projects from "../pages/projects/Projects";
 //import Faq from "../pages/faq/faqcomponent.js"
 import { settings } from "../portfolio.js";
 

@@ -2,9 +2,9 @@ import React from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import Projects from "../../pages/projects/Projects.js"
-import Educations from "../../containers/education/Educations";
+//import Educations from "../../containers/education/Educations";
 import Certifications from "../../containers/certifications/Certifications";
-import EducationImg from "./EducationImg";
+//import EducationImg from "./EducationImg";
 import "./EducationComponent.css";
 import { Fade } from "react-reveal";
 import two from "./2.avif"
