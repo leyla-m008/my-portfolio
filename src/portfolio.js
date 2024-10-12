@@ -422,7 +422,7 @@ const projects = {
       alt_name: "SETI",
       duration: "",
       descriptions: [
-        "⚡ I've nevefffr thought of myself as a runner, as I've never been good at it or enjoyed it",
+        "⚡ I've nevesr thought of myself as a runner, as I've never been good at it or enjoyed it",
         "⚡ I decided to push myself and start training to run. This was my first one",
         "⚡ I ran the 5k without stopping or slowing down, finishing in 36 minutes, which I was really happy about",
       ],

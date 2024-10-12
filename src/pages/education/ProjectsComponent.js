@@ -18,7 +18,7 @@ function ProjectsComponent(props) {
           <div className="heading-div">
             <div className="heading-img-div">
               {/* <EducationImg theme={theme} /> */}
-               <img src={two}/>
+               <img alt="two" src={two}/>
             </div>
             <div className="heading-text-div">
               <h1 className="heading-text" style={{ color: theme.text }}>
