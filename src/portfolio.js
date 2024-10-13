@@ -326,7 +326,7 @@ const degrees = {
       subtitle: "Rapids, ten minute score on chess.com",
       logo_path: "dal.png",
       alt_name: "DAL",
-      duration: "7/29/2024",
+      duration: "",
       descriptions: [
         "⚡ Started really practicing chess during the summer of 2021",
         "⚡ Was the member of my highschool chess club for all 4 years",
@@ -394,7 +394,7 @@ const projects = {
       subtitle: "Digital Privacy",
       logo_path: "dal.png",
       alt_name: "DAL",
-      duration: "7/29/2024",
+      duration: "",
       descriptions: [
         "⚡ I really enjoyed working on this project, as it let me explore data formatting and statistical analysis",
         "⚡ Analyzing the results was similarly interesting, especially went the data contradicted one of my hypotheses",
