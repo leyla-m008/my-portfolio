@@ -130,7 +130,7 @@ function DegreeCard(props) {
                   backgroundColor: theme.accentColor,
                 }}
               >
-                Visit Website
+                View
               </p>
             </a> : <div><br></br><br></br></div>}
        
