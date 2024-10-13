@@ -593,7 +593,7 @@ const experience = {
           title: "Assistant Manager",
           company: "Baskin-Robbins",
           company_url: "https://www.baskinrobbins.com",
-          logo_path: "cra.png",
+          logo_path: "br.svg",
           duration: "March 2023 - Present",
           location: "Katy, Texas",
           description:

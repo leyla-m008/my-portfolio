@@ -18,7 +18,7 @@ function ProjectsComponent(props) {
           <div className="heading-div">
             <div className="heading-img-div">
               {/* <EducationImg theme={theme} /> */}
-               <img alt="two" src={two}/>
+               <img src={two}/>
             </div>
             <div className="heading-text-div">
               <h1 className="heading-text" style={{ color: theme.text }}>
@@ -31,8 +31,7 @@ function ProjectsComponent(props) {
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                I actively participate in hackathons and other tech-related
-                activities. Below are some of my major certifications.
+              Here are some of my recent projects
               </p>
             </div>
           </div>
