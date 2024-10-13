@@ -14,7 +14,7 @@ function ExperienceCard(props) {
     >
       <div className="experience-card-logo-div">
         
-      {props.experience.logo_path=="br.svg" ? 
+      {props.experience.logo_path==="br.svg" ? 
              <img
              className="experience-card-logo"
              src={require(`../../assets/images/${experience["logo_path"]}`)}

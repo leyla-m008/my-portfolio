@@ -3,7 +3,7 @@ import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import Projects from "../../pages/projects/Projects.js"
 //import Educations from "../../containers/education/Educations";
-import Certifications from "../../containers/certifications/Certifications";
+//import Certifications from "../../containers/certifications/Certifications";
 //import EducationImg from "./EducationImg";
 import "./EducationComponent.css";
 import { Fade } from "react-reveal";
@@ -18,7 +18,7 @@ function ProjectsComponent(props) {
           <div className="heading-div">
             <div className="heading-img-div">
               {/* <EducationImg theme={theme} /> */}
-               <img src={two}/>
+               <img alt="Two" src={two}/>
             </div>
             <div className="heading-text-div">
               <h1 className="heading-text" style={{ color: theme.text }}>
