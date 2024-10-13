@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../../components/header/Header";
 import Footer from "../../components/footer/Footer";
 import Educations from "../../containers/education/Educations";
-import Certifications from "../../containers/certifications/Certifications";
+//import Certifications from "../../containers/certifications/Certifications";
 //import EducationImg from "./EducationImg";
 import hand from "./hand.png"
 import "./EducationComponent.css";
@@ -37,7 +37,7 @@ function Education(props) {
           </div>
         </Fade>
         <Educations theme={props.theme} />
-        <Certifications theme={props.theme} />
+       
       </div>
       <Footer theme={props.theme} />
     </div>

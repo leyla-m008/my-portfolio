@@ -76,7 +76,7 @@ function DegreeCard(props) {
               transform: "scale(50%, 50%)",
             }}
            
-          //  src={require(`../../assests/images/${degree.logo_path}`)}
+           src={require(`../../assets/images/${degree.logo_path}`)}
             alt={degree.alt_name}
           />
         </div>  */}

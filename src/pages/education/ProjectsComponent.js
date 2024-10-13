@@ -25,19 +25,19 @@ function ProjectsComponent(props) {
                 Projects
               </h1>
               <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                Basic Qualification and Certifications
+                
               </h3>
               <p
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-              Here are some of my recent projects
+              A showcase
               </p>
             </div>
           </div>
         </Fade>
         <Projects theme={props.theme} />
-        <Certifications theme={props.theme} />
+        
       </div>
       <Footer theme={props.theme} />
     </div>

@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "High schooler. Computer Science Enthusiast. Soda Fanatic.",
   resumeLink:
-    "https://drive.google.com/file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
+    "https://drive.google./file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
   mail: "mailto:leylamammadli008@gmail.com",
 };
 
@@ -396,20 +396,20 @@ const projects = {
       alt_name: "DAL",
       duration: "7/29/2024",
       descriptions: [
-        "⚡ Started really practicing chess during the summer of 2021",
-        "⚡ Was the member of my highschool chess club for all 4 years",
-        "⚡ Have never taken chess lessons- only improve through private practice",
+        "⚡ I really enjoyed working on this project, as it let me explore data formatting and statistical analysis",
+        "⚡ Analyzing the results was similarly interesting, especially went the data contradicted one of my hypotheses",
+      
       ],
       website_link: "https://www.dal.ca/",
     },
     {
-      title: "Sea(?) Puzzle",
-      subtitle: "Biggest Puzzle Yet!",
+      title: "Book",
+      subtitle: "Published on Amazon",
       logo_path: "sal.png",
       alt_name: "SETI",
       duration: "",
       descriptions: [
-        "⚡ I love doing jigsaw puzzles, this one has more pieces than any other I've done",
+        "⚡ I love argum",
         "⚡ Usually I complete 1000-1500 piece puzzles whenever I have spare time over the course of days",
         "⚡ This puzzle took a few more days than usual and was very fun",
       ],
