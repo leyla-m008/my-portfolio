@@ -332,7 +332,7 @@ const degrees = {
         "⚡ Was the member of my highschool chess club for all 4 years",
         "⚡ Have never taken chess lessons- only improve through private practice",
       ],
-      website_link: "https://www.dal.ca/",
+      website_link: "https://www.sal.edu.in/",
     },
     {
       title: "Biggest Puzzle Yet!",
@@ -371,7 +371,7 @@ const degrees = {
         "⚡ Usually I complete the USA Today crosswords in 5 to 6 minutes and the NYT minis in under a minute",
         "⚡ I love puzzles of all kinds, but word puzzles are my favorite",
       ],
-      website_link: "https://puzzles.usatoday.com/",
+      website_link: "https://www.sal.edu.in/",
     }, {
       title: "Russian Learning",
       subtitle: "Hit 1000 day streak!",

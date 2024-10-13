@@ -132,7 +132,7 @@ function DegreeCard(props) {
               >
                 Visit Website
               </p>
-            </a> : <div>Condition is false!</div>}
+            </a> : <div><br></br><br></br></div>}
        
           </div>
         </div>
