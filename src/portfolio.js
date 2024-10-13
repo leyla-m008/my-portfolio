@@ -358,20 +358,20 @@ const degrees = {
         "⚡ I decided to push myself and start training to run. This was my first one",
         "⚡ I ran the 5k without stopping or slowing down, finishing in 36 minutes, which I was really happy about",
       ],
-      website_link: "https://www.sal.edu.in/",
+      website_link: "https://results.raceroster.com/v2/en-US/results/ku2uss6zh2h2qmxx/results?genderSexId=36eda1e6-c9ff-4038-802d-2b4b178c7753&page=1&division=1175358",
     },
     {
       title: "Crosswords",
-      subtitle: "One example of a completed puzzle",
+      subtitle: "My favorite part of the day",
       logo_path: "sal.png",
       alt_name: "SETI",
       duration: "",
       descriptions: [
-        "⚡ I play all of the NYT word games every day, as well as the USA Today Crossword (expert mode). It's my favorite part of the day",
-        "⚡ I completed this one quicker than usual, usually I complete them in between 5 to 6 minutes ",
+        "⚡ I play all of the NYT word games every day, as well as the USA Today Crossword (expert mode).",
+        "⚡ Usually I complete the USA Today crosswords in 5 to 6 minutes and the NYT minis in under a minute",
         "⚡ I love puzzles of all kinds, but word puzzles are my favorite",
       ],
-      website_link: "https://www.sal.edu.in/",
+      website_link: "https://puzzles.usatoday.com/",
     }, {
       title: "Russian Learning",
       subtitle: "Hit 1000 day streak!",
@@ -404,7 +404,7 @@ const projects = {
     },
     {
       title: "Sea(?) Puzzle",
-      subtitle: "5000 piece puzzle",
+      subtitle: "Biggest Puzzle Yet!",
       logo_path: "sal.png",
       alt_name: "SETI",
       duration: "",
@@ -413,7 +413,7 @@ const projects = {
         "⚡ Usually I complete 1000-1500 piece puzzles whenever I have spare time over the course of days",
         "⚡ This puzzle took a few more days than usual and was very fun",
       ],
-      website_link: "https://www.sal.edu.in/",
+      website_link: "https://www.amazon.com/Ravensburger-Beneath-Jigsaw-Puzzle-Adults/dp/B002ZCXPG2/ref=asc_df_B002ZCXPG2/?tag=hyprod-20&linkCode=df0&hvadid=693369965922&hvpos=&hvnetw=g&hvrand=18141767378249499838&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9222585&hvtargid=pla-434027070681&psc=1&mcid=65a6747509fa30888c0a1e6f91cca994",
     },
     {
       title: "5k Run",

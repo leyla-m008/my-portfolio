@@ -113,12 +113,14 @@ function DegreeCard(props) {
                 </p>
               );
             })}
+            {props.degree.website_link!="https://www.sal.edu.in/" ? 
             <a
               href={degree.website_link}
               target="_blank"
               rel="noopener noreferrer"
               style={{ textDecoration: "none", textAlign: "center" }}
             >
+          
               <p
                 {...button_visit}
                 style={{
@@ -130,7 +132,8 @@ function DegreeCard(props) {
               >
                 Visit Website
               </p>
-            </a>
+            </a> : <div>Condition is false!</div>}
+       
           </div>
         </div>
       </Fade>
