@@ -627,7 +627,7 @@ const experience = {
           company: "Grameena Vikas Kendram",
           company_url: "https://sugarlabs.org/",
           logo_path: "google_logo.png",
-          duration: "Dec 2023-April 2024",
+          duration: "Jun 2023-Present",
           location: " ",
           description:
             "Helped to create website from scratch for a non-profit",
@@ -638,7 +638,7 @@ const experience = {
           company: "Hav a Sole",
           company_url: "https://sugarlabs.org/",
           logo_path: "google_logo.png",
-          duration: "Jan 2024",
+          duration: "Oct 2023",
           location: " ",
           description:
             "Created new pages to promote events, edited design and formatting, and changed donation page to increase ease of donation.",

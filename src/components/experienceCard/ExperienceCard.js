@@ -38,13 +38,10 @@ function ExperienceCard(props) {
               className="experience-card-company"
               style={{ color: theme.secondaryText }}
             >
-              <a
-                href={experience["company_url"]}
-                target="_blank"
-                rel="noopener noreferrer"
+              <p
               >
                 {experience["company"]}
-              </a>
+              </p>
             </p>
           </div>
           <div className="experience-card-heading-right">
