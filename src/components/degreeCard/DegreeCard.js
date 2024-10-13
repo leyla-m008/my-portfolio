@@ -113,7 +113,7 @@ function DegreeCard(props) {
                 </p>
               );
             })}
-            {props.degree.website_link!="https://www.sal.edu.in/" ? 
+            {props.degree.website_link!=="https://www.sal.edu.in/" ? 
             <a
               href={degree.website_link}
               target="_blank"
