@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "High schooler. Computer Science Enthusiast. Soda Fanatic.",
   resumeLink:
-    "https://drive.google./file/d/1kcvW8P65jWZFeKR6Jopf3nrQLA1qJCwn/view?usp=sharing",
+    "https://drive.google.com/file/d/1FkYP2nezny9HsYPupD5MrnSxJrghU0wk/view?usp=sharing",
   mail: "mailto:leylamammadli008@gmail.com",
 };
 
