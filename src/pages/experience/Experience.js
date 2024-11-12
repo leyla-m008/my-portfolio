@@ -5,7 +5,8 @@ import ExperienceAccordion from "../../containers/experienceAccordion/Experience
 import "./Experience.css";
 import { experience } from "../../portfolio.js";
 import { Fade } from "react-reveal";
-import ExperienceImg from "./ExperienceImg";
+import i from "./lp.png"
+//import ExperienceImg from "./ExperienceImg";
 
 function Experience(props) {
   const theme = props.theme;
@@ -17,7 +18,7 @@ function Experience(props) {
         <Fade bottom duration={2000} distance="40px">
           <div className="experience-heading-div">
             <div className="experience-heading-img-div">
-              <ExperienceImg theme={theme} />
+           <img src={i}/>
             </div>
             <div className="experience-heading-text-div">
               <h1
