@@ -4,7 +4,9 @@ export default function ExperienceImg(props) {
   const theme = props.theme;
   return (
     <div>
-    <a href="https://lovepik.com/images/png-cartoon.html">Cartoon Png vectors by Lovepik.com</a> 
+      <a href="https://lovepik.com/images/png-cartoon.html">
+        Cartoon Png vectors by Lovepik.com
+      </a>
       <title></title>
       <rect
         x="155"
@@ -381,6 +383,6 @@ export default function ExperienceImg(props) {
         transform="translate(-53 -70)"
         opacity="0.1"
       />
-   </div>
+    </div>
   );
 }
